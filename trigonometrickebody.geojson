@@ -1,0 +1,211 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "605",
+          "souradnice_x": "1044058.96",
+          "souradnice_y": "834422.75"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.15827,
+            49.95897
+          ]
+        }
+    },
+    
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "606",
+          "souradnice_x": "1044077.61",
+          "souradnice_y": "834386.71"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.1588,
+            49.95885
+          ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "607",
+          "souradnice_x": "1044024.80",
+          "souradnice_y": "834329.83"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.15948,
+            49.9594
+          ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "608",
+          "souradnice_x": "1044035.18",
+          "souradnice_y": "834329.34"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.1595,
+            49.95931
+          ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "609",
+          "souradnice_x": "1044131.76",
+          "souradnice_y": "834345.44"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.15949,
+            49.95843
+          ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "610",
+          "souradnice_x": "1044098.12",
+          "souradnice_y": "834303.47"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.16,
+            49.95879
+          ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "611",
+          "souradnice_x": "1044177.82",
+          "souradnice_y": "834246.89"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.16094,
+            49.95816
+          ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "612",
+          "souradnice_x": "1044190.65",
+          "souradnice_y": "834283.35"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.16047,
+            49.95799
+          ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "597",
+          "souradnice_x": "1044218.44",
+          "souradnice_y": "834391.41"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.15904,
+            49.9576
+          ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "596",
+          "souradnice_x": "1044218.36",
+          "souradnice_y": "834329.96"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.15989,
+            49.95768
+          ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "617",
+          "souradnice_x": "1044241.70",
+          "souradnice_y": "834450.01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.15828,
+            49.95731
+          ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+          "bod": "618",
+          "souradnice_x": "1044224.31",
+          "souradnice_y": "834411.04"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.15878,
+            49.95752
+          ]
+        }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "bod": "604",
+        "souradnice_x": "1044139.12",
+        "souradnice_y": "834491.70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.15749,
+          49.95816
+        ]
+      }
+  }
+    ]
+}
